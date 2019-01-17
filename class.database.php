@@ -1,4 +1,9 @@
 <?php
+	/**
+	*** Create by Srikee Eadtrong
+	***	From PSU Pattani
+	*** Version 1.0.0
+	**/
 	class Database
 	{
 		var $host = null;
@@ -146,4 +151,3 @@
 			return $this->Query($sql);
 		}
 	}
-?>
