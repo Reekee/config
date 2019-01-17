@@ -1,8 +1,8 @@
 <?php
 	/**
-	*** Create by Srikee Eadtrong
-	***	From PSU Pattani
-	*** Version 1.0.0
+	***		Create by Srikee Eadtrong
+	***		From PSU Pattani
+	***		Version 1.0.0
 	**/
 	class Database
 	{
